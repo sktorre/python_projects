@@ -1,9 +1,9 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Distance Measurement Calculation.py: This file uses the Mahalanobis Distance distance-based   #
-#            matching technique to match donors and recipients                                                       #
+#            matching technique to match donors and recipients                                  #
 #                                                                                               #
 # Author:    Sarah Torrence                                                                     #
-#                                                         #
+#                                                                                               #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 import pandas as pd
